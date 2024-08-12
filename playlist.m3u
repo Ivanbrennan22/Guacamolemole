@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",America TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",Cine.Ar
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="News" user-agent="iPhone",Cronica TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Animation;Kids",Disney Channel Latin America
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Animation;Kids",Disney Junior Latin America
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",El Nueve
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="General",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nacion +
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Publica
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Entertainment",Vorterix
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
